@@ -1,0 +1,8 @@
+BUS 구성
+
+(
+Totem-pole output-일반적인 출력
+Open-collector output- 신호있을때 로우로 출력디ㅗ는
+Tri-state output - 출력이랑 끊어진 것처럼 신호를 갖는
+
+Multiplexer

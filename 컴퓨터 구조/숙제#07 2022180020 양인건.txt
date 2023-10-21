@@ -1,0 +1,14 @@
+No operation			NOP		|uNOP	 |uNOP	|uNOP	|uNOP
+Negate AC			NOT		|uNOT	 |uNOP	|uNOP	|uNOP
+Shift left AC			SHL		|uSHL	 |uNOP	|uNOP	|uNOP
+Shift right AC			SHR		|uSHR	 |uNOP	|uNOP	|uNOP
+Jump tp addr			JMP addr		|IRAD2PC	 |uNOP	|uNOP	|uNOP
+Branch on zero to addr		BZ addr		|IRAD2PC	 |uNOP	|uNOP	|uNOP
+				BZ addr		|uNOP	 |uNOP	|uNOP	|uNOP
+Load M[addr] to AC		LDA addr		|IRAD2AR	 |READ	|BR2AC	|uNOP
+Add M[addr] to AC			ADD addr 	|IRAD2AR	 |READ	|uADD	|uNOP
+Subtract M[addr] from AC		SUB addr		|IRAD2AR	 |READ	|uSUB	|uNOP
+Bitwise AND M[addr] to AC		AND addr		|IRAD2AR	 |READ	|uAND	|uNOP
+Bitwise OR M[addr] to AC		OR addr		|IRAD2AR	 |READ	|uOR	|uNOP
+Bitwise XOR M[addr] to AC		XOR addr		|IRAD2AR	 |READ	|uXOR	|uNOP
+Store AC to M[addr]		STR addr		|IRAD2AR	 |AC2BR	|WRITE	|uNOP

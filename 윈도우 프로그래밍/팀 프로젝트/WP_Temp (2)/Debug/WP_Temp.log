@@ -1,0 +1,37 @@
+﻿  source.cpp
+C:\Users\인건\OneDrive\바탕 화면\대학\윈도우 프로그래밍\팀 프로젝트\WP_Temp (2)\source.cpp(692,23): warning C4244: '인수': 'ULONGLONG'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\인건\OneDrive\바탕 화면\대학\윈도우 프로그래밍\팀 프로젝트\WP_Temp (2)\source.cpp(881,25): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\인건\OneDrive\바탕 화면\대학\윈도우 프로그래밍\팀 프로젝트\WP_Temp (2)\source.cpp(1671,61): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\인건\OneDrive\바탕 화면\대학\윈도우 프로그래밍\팀 프로젝트\WP_Temp (2)\source.cpp(1674,31): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\인건\OneDrive\바탕 화면\대학\윈도우 프로그래밍\팀 프로젝트\WP_Temp (2)\source.cpp(1681,62): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\인건\OneDrive\바탕 화면\대학\윈도우 프로그래밍\팀 프로젝트\WP_Temp (2)\source.cpp(1727,29): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\인건\OneDrive\바탕 화면\대학\윈도우 프로그래밍\팀 프로젝트\WP_Temp (2)\source.cpp(1763,120): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\인건\OneDrive\바탕 화면\대학\윈도우 프로그래밍\팀 프로젝트\WP_Temp (2)\source.cpp(1763,38): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\인건\OneDrive\바탕 화면\대학\윈도우 프로그래밍\팀 프로젝트\WP_Temp (2)\source.cpp(1911,30): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\인건\OneDrive\바탕 화면\대학\윈도우 프로그래밍\팀 프로젝트\WP_Temp (2)\source.cpp(1924,30): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\인건\OneDrive\바탕 화면\대학\윈도우 프로그래밍\팀 프로젝트\WP_Temp (2)\source.cpp(1938,30): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\인건\OneDrive\바탕 화면\대학\윈도우 프로그래밍\팀 프로젝트\WP_Temp (2)\source.cpp(1953,137): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\인건\OneDrive\바탕 화면\대학\윈도우 프로그래밍\팀 프로젝트\WP_Temp (2)\source.cpp(1953,69): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\인건\OneDrive\바탕 화면\대학\윈도우 프로그래밍\팀 프로젝트\WP_Temp (2)\source.cpp(1996,29): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\인건\OneDrive\바탕 화면\대학\윈도우 프로그래밍\팀 프로젝트\WP_Temp (2)\source.cpp(2095,30): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\인건\OneDrive\바탕 화면\대학\윈도우 프로그래밍\팀 프로젝트\WP_Temp (2)\source.cpp(2110,30): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\인건\OneDrive\바탕 화면\대학\윈도우 프로그래밍\팀 프로젝트\WP_Temp (2)\source.cpp(2130,30): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\인건\OneDrive\바탕 화면\대학\윈도우 프로그래밍\팀 프로젝트\WP_Temp (2)\source.cpp(2143,29): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\인건\OneDrive\바탕 화면\대학\윈도우 프로그래밍\팀 프로젝트\WP_Temp (2)\source.cpp(3363,30): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\인건\OneDrive\바탕 화면\대학\윈도우 프로그래밍\팀 프로젝트\WP_Temp (2)\source.cpp(3375,30): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\인건\OneDrive\바탕 화면\대학\윈도우 프로그래밍\팀 프로젝트\WP_Temp (2)\source.cpp(3390,30): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\인건\OneDrive\바탕 화면\대학\윈도우 프로그래밍\팀 프로젝트\WP_Temp (2)\source.cpp(3402,30): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\인건\OneDrive\바탕 화면\대학\윈도우 프로그래밍\팀 프로젝트\WP_Temp (2)\source.cpp(3412,30): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\인건\OneDrive\바탕 화면\대학\윈도우 프로그래밍\팀 프로젝트\WP_Temp (2)\source.cpp(3421,30): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\인건\OneDrive\바탕 화면\대학\윈도우 프로그래밍\팀 프로젝트\WP_Temp (2)\source.cpp(3433,30): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\인건\OneDrive\바탕 화면\대학\윈도우 프로그래밍\팀 프로젝트\WP_Temp (2)\source.cpp(3481,30): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\인건\OneDrive\바탕 화면\대학\윈도우 프로그래밍\팀 프로젝트\WP_Temp (2)\source.cpp(3491,30): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\인건\OneDrive\바탕 화면\대학\윈도우 프로그래밍\팀 프로젝트\WP_Temp (2)\source.cpp(3500,30): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\인건\OneDrive\바탕 화면\대학\윈도우 프로그래밍\팀 프로젝트\WP_Temp (2)\source.cpp(3514,30): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\인건\OneDrive\바탕 화면\대학\윈도우 프로그래밍\팀 프로젝트\WP_Temp (2)\source.cpp(984,5): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\인건\OneDrive\바탕 화면\대학\윈도우 프로그래밍\팀 프로젝트\WP_Temp (2)\source.cpp(1006,4): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\인건\OneDrive\바탕 화면\대학\윈도우 프로그래밍\팀 프로젝트\WP_Temp (2)\source.cpp(1028,4): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\인건\OneDrive\바탕 화면\대학\윈도우 프로그래밍\팀 프로젝트\WP_Temp (2)\source.cpp(3757,6): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\인건\OneDrive\바탕 화면\대학\윈도우 프로그래밍\팀 프로젝트\WP_Temp (2)\source.cpp(3763,6): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\인건\OneDrive\바탕 화면\대학\윈도우 프로그래밍\팀 프로젝트\WP_Temp (2)\source.cpp(3769,6): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  WP_Temp.vcxproj -> C:\Users\인건\OneDrive\바탕 화면\대학\윈도우 프로그래밍\팀 프로젝트\WP_Temp (2)\Debug\WP_Temp.exe
